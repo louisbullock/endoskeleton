@@ -1,0 +1,12 @@
+# (C) BareBones Grid 2011
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+#
+# Uncomment 'Disallow: /your_directory/', and replace '/your_directory/' 
+# with any directories that you want to keep crawlers and robots out of
+# (like personal directories etc). Go to a new line with 'Disallow: /'
+# to add more directories. Remember, the root of the site is '/',
+# you can only list directories below that, not above it. Have fun!
+
+User-agent: *
+#Disallow: /your_directory/
