@@ -6,6 +6,7 @@ Endoskeleton is an assortment of CSS and JS files ready to help fast development
 It includes a responsive grid, simple typography, clean forms and buttons, delicious CSS styling and more.
 
 The inner workings of Endoskeleton have been inspired by the wonderful works such as <a href="http://twitter.github.com/bootstrap/">Twitter's Bootstrap</a>, the famous <a href="http://960.gs/">960 Grid System</a>, the ever so handy <a href="http://html5boilerplate.com/">HTML5 Boilerplate</a>, and a personal favourite of mine, the <a href="http://getskeleton.com/">Skeleton Grid.</a>
+The inner workings of Endoskeleton have been inspired by the wonderful works such as <a href="http://twitter.github.com/bootstrap/">Twitter's Bootstrap</a>, the famous <a href="http://960.gs/">960 Grid System</a>, the ever so handy <a href="http://html5boilerplate.com/">HTML5 Boilerplate</a>, Dan Eden's <a href="http://daneden.me/toast/">Toast framework</a>, and a personal favourite of mine, the <a href="http://getskeleton.com/">Skeleton Grid.</a>
 
 ### Design & core ideas
 Design-wise, Endoskeleton is designed with a responsive/adaptive grid, so it'll make your site look great on practically all devices, ranging from huge 27" iMacs, to your average 17" laptop, all the way down to a good ol' iPhone.
